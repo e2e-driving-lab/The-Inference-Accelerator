@@ -8,7 +8,7 @@ Furthermore, the architecture emphasizes portability and long‑term maintainabi
 
 The following passage is taken from the document released in September 2025, Strategic Considerations of the Gate-All-Around (GAA) Transistor for AI Semiconductors in Software-Defined Vehicles (SDVs) and Robotic Manipulation Systems: latest revised on Dec. 04, 2025.
 
-
+*****************************************************************************************************************************************
 The essence of technology lies in the power to break through the wall of "proprietary", and that power comes from "standardization and openness".
 
 This strategy demonstrates that for semiconductor companies developing RMS (Robotic Manipulation System) and SDV (Software‑Defined Vehicle) solutions, providing APIs or SDKs that allow AI developers involved in RMS and SDV to freely select and integrate sensors constitutes an effective countermeasure against proprietary approaches.
